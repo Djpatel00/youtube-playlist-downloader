@@ -5,7 +5,7 @@ Download whole youtube playlist at 1 go.
 After clicking the start button please wait and see the files in the selected folder.
 Don't worry if it is showing "Window not responding".
 
-# Ytube Downloader V 1.0
+# Ytube Downloader V 1.0 (YTube Downloader-1.0-amd64.msi)
 This is the final version of my small mini project and the name of the app is "Ytube Downloader".
 
 Ytube Downloader can download Playlist, Youtube video and Youtube shorts. 
