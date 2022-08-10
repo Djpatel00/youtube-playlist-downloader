@@ -1,6 +1,6 @@
 # Ytube Downloader V 2.0 (YTube Downloader-2.0)
 
--> New feature of selecting quality of video in youtube playlist added.
+-> New feature of selecting quality of video in youtube playlist added.<br>
 -> Optimised the code. 
 
 New App size: 11 MB
